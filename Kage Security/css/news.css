@@ -1,0 +1,137 @@
+.col-sm-4 {
+    color: rgba(255, 235, 59, 0.432);
+}
+
+
+body {
+    margin-top: 30px;
+    background: #424242;
+    background: linear-gradient( #424242, #212121);
+    
+}
+p.LaunchLink {
+    color: white;
+    text-decoration: none;
+    font-size: 10px;
+}
+  a,
+  a:hover {
+    color: #212529;
+  }
+  
+  a:hover {
+    text-decoration: none;
+  }
+  
+  .block {
+    height: 350px;
+    background: rgba(86,61,124,.15);
+    margin-bottom: 30px;
+  }
+  
+  .label {
+    font-size: .85rem;
+    font-weight: bold;
+  }
+  
+h1.title {
+    color: rgba(255, 235, 59, 0.432);
+    text-align: center;
+    font-family: monospace;
+ 
+}
+div.label {
+    color: rgba(255, 235, 59, 0.432);
+    text-align: center;
+    font-family: monospace;
+ 
+}
+div.description {
+    color: rgba(255, 235, 59, 0.432);
+    text-align: center;
+    font-family: monospace;
+ 
+}
+p.m-0 {
+    color: rgba(255, 235, 59, 0.432);
+    text-align: center;
+    font-family: monospace;
+ 
+}
+h3.m-0 {
+    color: rgba(255, 235, 59, 0.432);
+    text-align: center;
+    font-family: monospace;
+ 
+}
+a.nav-link {
+    color: #FFEB3B;
+}
+p.footerp {
+    color: rgba(255, 235, 59, 0.432);
+}
+.line-b {
+    border-bottom: 1px solid #FFEB3B !important;
+}
+a.btn {
+    background-color: rgba(255, 235, 59, 0.432);
+   
+    color: black;
+}
+hr.Hr1 {
+    background-color: rgba(255, 235, 59, 0.432);
+}
+hr.Hr2 {
+    background-color: rgba(255, 235, 59, 0.432);
+}
+hr.Hr3 {
+    background-color: rgba(255, 235, 59, 0.432);
+}
+hr.Hr4 {
+    background-color: rgba(255, 235, 59, 0.432);
+}
+  .scroll {
+    color: #0000FF;
+    margin-top: 100px
+    }
+    
+    #toTopBtn {
+    position: fixed;
+    bottom: 26px;
+    right: 39px;
+    z-index: 98;
+    padding: 21px;
+    background-color: (#0000FF);
+    }
+    
+    .js .cd-top--fade-out {
+    opacity: .5
+    }
+    
+    .js .cd-top--is-visible {
+    visibility: visible;
+    opacity: 1
+    }
+    
+    .js .cd-top {
+    visibility: hidden;
+    opacity: 0;
+    transition: opacity .3s, visibility .3s, background-color .3s
+    }
+    
+    .cd-top {
+    position: fixed;
+    bottom: 20px;
+    bottom: var(--cd-back-to-top-margin);
+    right: 20px;
+    right: var(--cd-back-to-top-margin);
+    display: inline-block;
+    height: 40px;
+    height: var(--cd-back-to-top-size);
+    width: 40px;
+    width: var(--cd-back-to-top-size);
+    box-shadow: 0 0 10px (#0000FF) !important;
+    background: url(https://res.cloudinary.com/dxfq3iotg/image/upload/v1571057658/cd-top-arrow.svg) no-repeat center 50%;
+    background-color: (#0000FF);
+    background-color: hsla(var(--cd-color-3-h), var(--cd-color-3-s), var(--cd-color-3-l), 0.8)
+    }

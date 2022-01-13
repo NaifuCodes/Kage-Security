@@ -1,0 +1,109 @@
+body {
+    margin-top: 70px;
+    background: #424242;
+    background: linear-gradient( #424242, #212121);
+}
+h3.ToSTitle {
+    color: rgba(255, 235, 59, 0.432);
+    text-align: center;
+    font-family: fantasy;
+}
+p.ToSDescription{
+text-align: center;
+color: white;
+}
+h2.ToSUpdation {
+    text-align: center;
+    color: white;
+}
+p.IMPORTANT {
+    text-align: center;
+    color: red;
+}
+h3.AccessToSite {
+    text-align: center;
+    color: white;
+}
+p.AccessToSiteDescription{
+    text-align: center;
+    color: white;
+}
+h3.ThirdPartiesTitle {
+    text-align: center;
+    color: white;
+}
+p.ThirdPartiesDescription{
+    text-align: center;
+    color: white;
+}
+h3.DisclaimerTitle {
+    text-align: center;
+    color: white;
+}
+p.DisclaimerDescription {
+    text-align: center;
+    color: white;
+}
+h3.LimitationsTitle {
+    text-align: center;
+    color: white;
+}
+p.LimitationsDescription {
+    text-align: center;
+    color: white;
+}
+h2.HeaderTOS {
+    text-align: center;
+    color: blue;
+}
+h3.CopyrightPolicyTitle {
+    text-align: center;
+    color: white;
+}
+p.CopyrightPolicyDescription {
+    text-align: center;
+    color: white;
+}
+h3.GeneralTitle {
+    text-align: center;
+    color: white;
+}
+p.GeneralDescription {
+    text-align: center;
+    color: white;
+}
+p.Extra {
+    text-align: center;
+    color: white;
+}
+
+li.liclass { 
+    color: white;
+}
+p.note {
+    color: white;
+}
+
+
+
+.header {
+position: fixed;
+top: 0;
+z-index: 1;
+width: 100%;
+background-color: #f1f1f1;
+}
+
+/* The progress container (grey background) */
+.progress-container {
+width: 100%;
+height: 8px;
+background: #ccc;
+}
+
+/* The progress bar (scroll indicator) */
+.progress-bar {
+height: 8px;
+background: #0000FF;
+width: 0%;
+}
